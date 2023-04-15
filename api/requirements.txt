@@ -1,0 +1,125 @@
+absl-py @ file:///home/conda/feedstock_root/build_artifacts/absl-py_1606236319513/work
+aiohttp==3.7.4.post0
+appnope @ file:///Users/runner/miniforge3/conda-bld/appnope_1610094717693/work
+argon2-cffi @ file:///Users/runner/miniforge3/conda-bld/argon2-cffi_1605217032863/work
+astunparse @ file:///home/conda/feedstock_root/build_artifacts/astunparse_1610696312422/work
+async-generator @ file:///home/ktietz/src/ci/async_generator_1611927993394/work
+async-timeout==3.0.1
+attrs @ file:///tmp/build/80754af9/attrs_1604765588209/work
+backcall @ file:///home/ktietz/src/ci/backcall_1611930011877/work
+bleach @ file:///tmp/build/80754af9/bleach_1612211392645/work
+cached-property @ file:///tmp/build/80754af9/cached-property_1600785575025/work
+cachetools==4.2.1
+certifi==2021.10.8
+cffi @ file:///Users/runner/miniforge3/conda-bld/cffi_1613414076490/work
+click @ file:///home/linux1/recipes/ci/click_1610990599742/work
+cloudinary==1.28.0
+cycler==0.10.0
+decorator @ file:///home/ktietz/src/ci/decorator_1611930055503/work
+defusedxml @ file:///home/ktietz/src/ci_mi/defusedxml_1612808095953/work
+entrypoints @ file:///home/conda/feedstock_root/build_artifacts/entrypoints_1605121927639/work/dist/entrypoints-0.3-py2.py3-none-any.whl
+Flask @ file:///home/ktietz/src/ci/flask_1611932660458/work
+flatbuffers==1.12
+fsspec==2021.8.1
+gast @ file:///home/conda/feedstock_root/build_artifacts/gast_1596839682936/work
+google-auth==1.27.0
+google-auth-oauthlib==0.4.2
+google-pasta==0.2.0
+grpcio @ file:///Users/soumyajitpc/Downloads/tensorflow_macos/arm64/grpcio-1.33.2-cp38-cp38-macosx_11_0_arm64.whl
+h5py @ file:///Users/soumyajitpc/Downloads/tensorflow_macos/arm64/h5py-2.10.0-cp38-cp38-macosx_11_0_arm64.whl
+idna==2.10
+importlib-metadata @ file:///tmp/build/80754af9/importlib-metadata_1602276842396/work
+ipykernel @ file:///Users/runner/miniforge3/conda-bld/ipykernel_1611268328322/work/dist/ipykernel-5.4.3-py3-none-any.whl
+ipython @ file:///Users/runner/miniforge3/conda-bld/ipython_1612486993700/work
+ipython-genutils @ file:///tmp/build/80754af9/ipython_genutils_1606773439826/work
+ipywidgets @ file:///tmp/build/80754af9/ipywidgets_1610481889018/work
+itsdangerous @ file:///home/ktietz/src/ci/itsdangerous_1611932585308/work
+jedi @ file:///Users/runner/miniforge3/conda-bld/jedi_1610146860797/work
+Jinja2 @ file:///tmp/build/80754af9/jinja2_1612213139570/work
+joblib @ file:///tmp/build/80754af9/joblib_1613502643832/work
+jsonschema @ file:///tmp/build/80754af9/jsonschema_1602607155483/work
+jupyter @ file:///Users/runner/miniforge3/conda-bld/jupyter_1611871909120/work
+jupyter-client @ file:///tmp/build/80754af9/jupyter_client_1601311786391/work
+jupyter-console @ file:///tmp/build/80754af9/jupyter_console_1598884538475/work
+jupyter-core @ file:///Users/runner/miniforge3/conda-bld/jupyter_core_1612125280639/work
+jupyterlab-pygments @ file:///tmp/build/80754af9/jupyterlab_pygments_1601490720602/work
+jupyterlab-widgets @ file:///tmp/build/80754af9/jupyterlab_widgets_1609884341231/work
+Keras==2.4.3
+Keras-Preprocessing==1.1.2
+kiwisolver @ file:///Users/runner/miniforge3/conda-bld/kiwisolver_1610099944045/work
+lightning-bolts==0.3.4
+Markdown==3.3.3
+MarkupSafe @ file:///Users/runner/miniforge3/conda-bld/markupsafe_1610127508374/work
+matplotlib @ file:///Users/runner/miniforge3/conda-bld/matplotlib-suite_1611858797643/work
+micromlgen==1.1.22
+mistune @ file:///Users/runner/miniforge3/conda-bld/mistune_1610112889123/work
+multidict==5.1.0
+nbclient @ file:///tmp/build/80754af9/nbclient_1613676291033/work
+nbconvert @ file:///Users/runner/miniforge3/conda-bld/nbconvert_1605401845225/work
+nbformat @ file:///tmp/build/80754af9/nbformat_1610738111109/work
+nest-asyncio @ file:///tmp/build/80754af9/nest-asyncio_1613680548246/work
+notebook @ file:///Users/runner/miniforge3/conda-bld/notebook_1610575331858/work
+numpy @ file:///Users/runner/miniforge3/conda-bld/numpy_1612953020292/work
+oauthlib==3.1.0
+olefile==0.46
+opencv-python==4.5.1.48
+opt-einsum==0+untagged.61.gd905544.dirty
+packaging @ file:///tmp/build/80754af9/packaging_1611952188834/work
+pandas==1.2.2
+pandocfilters==1.4.2
+parso @ file:///tmp/build/80754af9/parso_1607623074025/work
+pexpect @ file:///tmp/build/80754af9/pexpect_1605563209008/work
+pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
+Pillow @ file:///Users/runner/miniforge3/conda-bld/pillow_1612816732289/work
+plotly @ file:///tmp/build/80754af9/plotly_1610565580232/work
+prometheus-client @ file:///tmp/build/80754af9/prometheus_client_1606344362066/work
+prompt-toolkit @ file:///tmp/build/80754af9/prompt-toolkit_1602688806899/work
+protobuf==3.15.0
+ptyprocess @ file:///tmp/build/80754af9/ptyprocess_1609355006118/work/dist/ptyprocess-0.7.0-py2.py3-none-any.whl
+pyasn1==0.4.8
+pyasn1-modules==0.2.8
+pycparser @ file:///tmp/build/80754af9/pycparser_1594388511720/work
+pyDeprecate==0.3.1
+Pygments @ file:///tmp/build/80754af9/pygments_1610565767015/work
+pyparsing @ file:///home/linux1/recipes/ci/pyparsing_1610983426697/work
+pyrsistent @ file:///Users/runner/miniforge3/conda-bld/pyrsistent_1610147220029/work
+python-dateutil @ file:///home/ktietz/src/ci/python-dateutil_1611928101742/work
+python-dotenv==0.19.0
+pytorch-lightning==1.4.5
+pytz @ file:///tmp/build/80754af9/pytz_1612215392582/work
+PyYAML==5.4.1
+pyzmq==20.0.0
+requests==2.25.1
+requests-oauthlib==1.3.0
+retrying==1.3.3
+rsa==4.7.1
+scikit-learn @ file:///Users/runner/miniforge3/conda-bld/scikit-learn_1611079758345/work
+scipy @ file:///Users/runner/miniforge3/conda-bld/scipy_1609457863341/work
+seaborn @ file:///tmp/build/80754af9/seaborn_1608578541026/work
+Send2Trash @ file:///tmp/build/80754af9/send2trash_1607525499227/work
+six @ file:///home/linux1/recipes/ci/six_1610970791821/work
+tensorboard==2.4.1
+tensorboard-plugin-wit==1.8.0
+tensorflow-addons-macos @ file:///Users/soumyajitpc/Downloads/tensorflow_macos/arm64/tensorflow_addons_macos-0.1a2-cp38-cp38-macosx_11_0_arm64.whl
+tensorflow-estimator==2.4.0
+tensorflow-macos @ file:///Users/soumyajitpc/Downloads/tensorflow_macos/arm64/tensorflow_macos-0.1a2-cp38-cp38-macosx_11_0_arm64.whl
+termcolor==1.1.0
+terminado @ file:///Users/runner/miniforge3/conda-bld/terminado_1609794204325/work
+testpath @ file:///home/ktietz/src/ci/testpath_1611930608132/work
+threadpoolctl @ file:///tmp/tmp9twdgx9k/threadpoolctl-2.1.0-py3-none-any.whl
+torch==1.9.0
+torchmetrics==0.5.0
+torchvision==0.10.0
+tornado @ file:///Users/runner/miniforge3/conda-bld/tornado_1610094713927/work
+tqdm==4.62.2
+traitlets @ file:///home/ktietz/src/ci/traitlets_1611929699868/work
+typeguard @ file:///home/conda/feedstock_root/build_artifacts/typeguard_1613521845214/work
+typing-extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_extensions_1602702424206/work
+urllib3==1.26.3
+wcwidth @ file:///tmp/build/80754af9/wcwidth_1593447189090/work
+webencodings==0.5.1
+Werkzeug @ file:///home/ktietz/src/ci/werkzeug_1611932622770/work
+widgetsnbextension @ file:///Users/runner/miniforge3/conda-bld/widgetsnbextension_1605475524172/work
+wrapt @ file:///opt/concourse/worker/volumes/live/b5715528-780f-4d7e-4be8-3e65bcdd1512/volume/wrapt_1637920103121/work
+yarl==1.6.3
+zipp @ file:///tmp/build/80754af9/zipp_1604001098328/work
